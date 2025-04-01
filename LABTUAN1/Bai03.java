@@ -1,5 +1,5 @@
 import java.utill.Scanner;
-public class buoi1b3 {
+public class Bai03 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Nhập nhiệt độ F: ");
