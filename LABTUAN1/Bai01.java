@@ -1,4 +1,4 @@
-public class buoi1b1 {
+public class Bai01 {
     public static void main (String [] args) {
         String ten = "Nguyễn Thị Diễm Huỳnh";
         String ngaysinh = "20/02/2005";
