@@ -20,7 +20,6 @@ public class Bai07 {
                       tb >= 60 ? "D" :
                       tb >= 40 ? "E" : "F";
         System.out.println("Xếp loại: Hạng " + hang);
-         
     }
 }
 
