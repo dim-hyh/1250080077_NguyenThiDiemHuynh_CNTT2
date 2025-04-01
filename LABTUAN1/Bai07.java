@@ -1,8 +1,7 @@
 import java.util.Scanner;
-public class buoi1b7 {
+public class Bai07 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        
         System.out.print("Nhập điểm Lý: ");
         double ly = scanner.nextDouble();
         System.out.print("Nhập điểm Hóa: ");
