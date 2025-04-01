@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class buoi1b2 {
+public class Buoi02  {
     public static void main(String [] args) {
         Scanner scanner = new Scanner (System.in);
         System.out.print ("Nhập chiều rộng:");
