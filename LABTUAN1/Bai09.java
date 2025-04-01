@@ -3,16 +3,12 @@ import java.util.Scanner;
 public class Bai09 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-
         System.out.print("Nhập số: ");
         int so = sc.nextInt();
-
         int tong = tinhTongChuSo(so);
         int tich = tinhTichChuSo(so);
-
         System.out.println("Tổng chữ số: " + tong);
         System.out.println("Tích chữ số: " + tich);
-
         sc.close();
     }
 
