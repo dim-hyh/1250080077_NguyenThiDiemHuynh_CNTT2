@@ -10,7 +10,6 @@ public class Bai09 {
         System.out.println("Tích chữ số: " + tich);
         sc.close();
     }
-
     static int tinhTongChuSo(int so) {
         int tong = 0;
         while (so > 0) {
@@ -19,7 +18,6 @@ public class Bai09 {
         }
         return tong;
     }
-
     static int tinhTichChuSo(int so) {
         int tich = 1;
         while (so > 0) {
