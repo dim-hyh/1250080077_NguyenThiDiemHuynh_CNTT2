@@ -1,4 +1,4 @@
-public class Vehicle {
+public class Bai04 {
     private String ten, loai;
     private int dt;
     private double gia;
